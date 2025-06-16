@@ -1,0 +1,9 @@
+# .gitignore
+Task 2_RAG Agent_Faiss/.env
+Task 2_RAG Agent_Faiss/Task 2 Key.txt
+__pycache__/
+.ipynb_checkpoints/
+Task 2_RAG Agent_Faiss/cura_db.digital_footprint_data.csv
+
+Task 3_Agent_Streaming/Task 3 Streaming.txt
+Task 3_Agent_Streaming/.env
